@@ -1,2 +1,2 @@
-# shop-products
+# shop-products - Alexandr Scherbakov
 

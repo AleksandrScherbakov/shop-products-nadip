@@ -1,2 +1,4 @@
-# shop-products - Alexandr Scherbakov
+# FoodMarket project - Alexandr Scherbakov
+
+Figma - https://www.figma.com/file/0r5sbfgRfzrBQ2l2EzNX6Y/FoodMarket
 

@@ -1,0 +1,15 @@
+FROM node:alpine
+
+RUN mkdir /app
+
+WORKDIR /app
+
+COPY ./package*.json ./
+COPY ./yarn.lock ./
+
+RUN yarn install --frozen-lockfile
+
+COPY ./ ./
+
+CMD ["yarn", "build"]
+CMD ["yarn", "dev"]
